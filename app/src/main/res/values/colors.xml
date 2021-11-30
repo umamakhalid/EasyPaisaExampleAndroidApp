@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="pink">#FC8686</color>
-    <color name="red_500">#610000</color>
-    <color name="maroon_700">#420000</color>
-    <color name="pink_200">#DA0340</color>
-    <color name="pink_700">#870151</color>
-    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#50d690</color>
+    <color name="colorPrimaryDark">#399867</color>
+    <color name="pink_700">#4343B5</color>
+    <color name="black">#151543</color>
     <color name="white">#FFFFFFFF</color>
 </resources>

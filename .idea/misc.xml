@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android Project Samples/EasyPaisaExampleAndroidApp/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/NCAI Apps/EasyPaisaExampleAndroidApp/app/src/main/res/layout/activity_easy_paisa_android_sdk.xml" value="0.36666666666666664" />
         <entry key="..\:/NCAI Apps/EasyPaisaExampleAndroidApp/app/src/main/res/layout/activity_easy_paisa_rest_apis.xml" value="0.2957427536231884" />
-        <entry key="..\:/NCAI Apps/EasyPaisaExampleAndroidApp/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/NCAI Apps/EasyPaisaExampleAndroidApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>
   </component>
