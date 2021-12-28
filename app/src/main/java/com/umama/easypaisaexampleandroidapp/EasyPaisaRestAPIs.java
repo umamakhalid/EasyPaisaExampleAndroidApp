@@ -57,7 +57,7 @@ public class EasyPaisaRestAPIs extends AppCompatActivity {
 
             String encryptedHashRequest = "";
 
-            Cipher cipher = Cipher.getInstance("AES/ECB/PKCS5Padding");
+            Cipher cipher = Cipher.getInstance("AES/ECB/PKCS5Padding"); // google recommended "AES/GCM/NoPadding"
             SecretKeySpec secretKey = new SecretKeySpec(hasyKey.getBytes(), "AES");
             cipher.init(Cipher.ENCRYPT_MODE, secretKey);
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
